@@ -10,4 +10,4 @@ Aula 02, aplicando filtros, com dataset de vendas.
 
 Aula 03, aplicação de gráfico com valores ao longo do tempo, filtros e cards com representação de totais.
 
-![Aula2](https://user-images.githubusercontent.com/61120351/215903875-a5bf7df0-2dd9-4991-b0f4-7341819ae777.png)
+![Aula 3](https://user-images.githubusercontent.com/61120351/215904058-2fce575f-11e0-46ea-a329-8fffe541eca1.png)
