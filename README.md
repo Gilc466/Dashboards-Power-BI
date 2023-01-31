@@ -7,3 +7,7 @@ Aula 01, Dataset da Copa do Mundo 2022.
 Aula 02, aplicando filtros, com dataset de vendas.
 
 ![Aula2](https://user-images.githubusercontent.com/61120351/215302696-99809e21-8cb4-41a6-9ea2-9855b894ac75.png)
+
+Aula 03, aplicação de gráfico com valores ao longo do tempo, filtros e cards com representação de totais.
+
+![Aula2](https://user-images.githubusercontent.com/61120351/215903875-a5bf7df0-2dd9-4991-b0f4-7341819ae777.png)
