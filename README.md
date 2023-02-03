@@ -15,3 +15,8 @@ Aula 03, aplicação de gráfico com valores ao longo do tempo, filtros e cards 
 Aula 04, com o dataset US_Crime_Data foi a aplicados gráficos de barra e filtros, respondendo a questões sobre crimes por cidades e por estados.
 
 ![Aula 4](https://user-images.githubusercontent.com/61120351/215906569-9eaf02c7-1e55-485a-aef4-96df134994f9.png)
+
+Aula 05, aplicação de DAX no dataset netflix_titles_2021.
+
+![Aula5](https://user-images.githubusercontent.com/61120351/216507831-46f04f67-75e1-4eb9-ab06-95af0481cff1.png)
+
